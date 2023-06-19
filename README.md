@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=min9805&show_icons=true&theme=radical)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min9805&hide=javascript,html,css,ejs,scss)](https://github.com/anuraghazra/github-readme-stats)
 
